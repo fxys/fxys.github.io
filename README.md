@@ -1,3 +1,3 @@
 # Placeholder website
 
-Will be updated in the future.
+This was a practice of implementing an autobiographical number algorithm. Website will be updated in the future.
