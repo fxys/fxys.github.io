@@ -54,6 +54,7 @@ body {
 }  
 
 .translate {
+  padding: 10px;
   position: relative;
   max-width: 100%;
   text-align: center;
