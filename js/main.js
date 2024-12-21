@@ -46,7 +46,7 @@ function parse(a) {
       return true;
     }
     if (f(c, d)) {
-      window.location.replace("https://notes-two-tau.vercel.app/");
+      window.location.replace("https://fxys.vercel.app/");
     }
   } 
 }
