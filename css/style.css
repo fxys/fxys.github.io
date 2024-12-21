@@ -70,6 +70,9 @@ body {
     pointer-events: none;
     line-height: 55px;
   }
+  .password .wrapper .password-text {
+    -webkit-text-stroke-width: 0.1px;
+  }
   .password .wrapper .password-text > span,
   .password .wrapper .password-dots > span {
     transition: all 0.5s ease;
