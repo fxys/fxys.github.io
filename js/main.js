@@ -46,7 +46,7 @@ function parse(a) {
       return true;
     }
     if (f(c, d)) {
-      window.location.replace("landing");
+      window.location.replace("https://notes-two-tau.vercel.app/");
     }
   } 
 }
